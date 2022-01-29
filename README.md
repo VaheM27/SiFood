@@ -1,3 +1,3 @@
 # SiFood
 https://vahem27.github.io/SiFood/ - tap here for a quick preview of my project.
-![4](https://user-images.githubusercontent.com/60319108/151677203-4986a557-216d-4388-aa6b-1a8cd419d8c4.png)
+<img width="1425" alt="Screen Shot 2022-01-30 at 00 55 38" src="https://user-images.githubusercontent.com/60319108/151677283-4f38c4e2-92ca-4d43-a9ed-6610e6261a7f.png">
